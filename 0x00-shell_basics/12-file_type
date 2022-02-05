@@ -1,2 +1,2 @@
-#!bin/bash
-lpr /tmp/iamafile
+#!/bin/bash
+lpr /tmp/holberton-system_engineering-devop/0x00-shell_basics/iamafile
