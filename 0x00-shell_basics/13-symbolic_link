@@ -1,2 +1,2 @@
 #!bin/bash
-ln -s
+ln -s /tmp/holberton-system_engineering-devop/0x00-shell_basics/13-symbolic_link
