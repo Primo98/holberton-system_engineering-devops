@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d -n -R -U -x -1
+ls -l -a /holberton-system_engineering-devops/0x00-shell_basics
